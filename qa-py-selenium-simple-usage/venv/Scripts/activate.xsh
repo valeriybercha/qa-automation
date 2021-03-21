@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"D:\Programming\QA\Projects\qa-py-selenium-simple-usage\venv"
+$VIRTUAL_ENV = r"D:\Programming\QA\Projects\qa-automation\qa-py-selenium-simple-usage\venv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
