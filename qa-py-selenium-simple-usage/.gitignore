@@ -4,3 +4,4 @@ test.py
 __pycache__/
 debug.log
 geckodriver.log
+venv/
